@@ -3,4 +3,5 @@ export const WORDS = [
   'cuchi',
   'narga',
   'lages',
+  'penis',
 ]

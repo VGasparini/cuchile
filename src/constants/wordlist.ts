@@ -1,5 +1,7 @@
 export const WORDS = [
   'paulo',
   'cuchi',
-  'narga'
+  'narga',
+  'lages',
+  'penis',
 ]

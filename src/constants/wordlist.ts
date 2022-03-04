@@ -4,4 +4,6 @@ export const WORDS = [
   'narga',
   'lages',
   'penis',
+  'ganja',
+  'flock'
 ]

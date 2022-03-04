@@ -5,5 +5,6 @@ export const WORDS = [
   'lages',
   'penis',
   'ganja',
-  'flock'
+  'flock',
+  'viril'
 ]
